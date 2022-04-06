@@ -34,7 +34,7 @@
         </ul>
       </nav>
       <div class="copyright">
-        <p>开发元宇宙链游自动化脚本服务<br>版权所有 &copy; {{ year }}</p>
+        <p>开发元宇宙链游自动化脚本服务<br />版权所有 &copy; {{ year }}</p>
       </div>
     </div>
   </footer>

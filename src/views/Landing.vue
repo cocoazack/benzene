@@ -15,7 +15,8 @@
               href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
               class="md-success md-lg"
               target="_blank"
-              > 开始使用</md-button
+            >
+              开始使用</md-button
             >
           </div>
         </div>
@@ -23,88 +24,88 @@
     </parallax>
     <div class="main main-raised">
       <div class="section">
-        <div class="container">
+        <div class="container text-center">
           <div class="md-layout">
-              <div class="md-layout-item md-medium-size-33 md-small-size-100">
-                  <md-card class="md-card-plain">
-                    <div class="md-layout-item md-size-50 mx-auto">
-                      <img
-                        :src="metaImg1"
-                        alt="Thumbnail Image"
-                        class="img-fluid"
-                      />
-                    </div>
-                    <h4 class="card-title">
-                      什么是元宇宙
-                    </h4>
+            <div class="md-layout-item md-medium-size-33 md-small-size-100">
+              <md-card class="md-card-plain">
+                <div class="md-layout-item md-size-50 mx-auto">
+                  <img
+                    :src="metaImg1"
+                    alt="Thumbnail Image"
+                    class="img-fluid"
+                  />
+                </div>
+                <h4 class="card-title">
+                  什么是元宇宙
+                </h4>
 
-                    <md-card-content>
-                      <p class="card-description">
-                        是利用科技手段进行链接与创造的，与现实世界映射与交互的虚拟世界
-                      </p>
-                    </md-card-content>
-                  </md-card>
-              </div>
-              <div class="md-layout-item md-medium-size-33 md-small-size-100">
-                  <md-card class="md-card-plain">
-                    <div class="md-layout-item md-size-50 mx-auto">
-                      <img
-                        :src="metaImg2"
-                        alt="Thumbnail Image"
-                        class="img-fluid"
-                      />
-                    </div>
-                    <h4 class="card-title">
-                      元宇宙的前景
-                    </h4>
+                <md-card-content>
+                  <p class="card-description">
+                    是利用科技手段进行链接与创造的，与现实世界映射与交互的虚拟世界
+                  </p>
+                </md-card-content>
+              </md-card>
+            </div>
+            <div class="md-layout-item md-medium-size-33 md-small-size-100">
+              <md-card class="md-card-plain">
+                <div class="md-layout-item md-size-50 mx-auto">
+                  <img
+                    :src="metaImg2"
+                    alt="Thumbnail Image"
+                    class="img-fluid"
+                  />
+                </div>
+                <h4 class="card-title">
+                  元宇宙的前景
+                </h4>
 
-                    <md-card-content>
-                      <p class="card-description">
-                        元宇宙或是工业和互联网的下一次大变革方向。
-                      </p>
-                    </md-card-content>
-                  </md-card>
-              </div>
-              <div class="md-layout-item md-medium-size-33 md-small-size-100">
-                  <md-card class="md-card-plain">
-                    <div class="md-layout-item md-size-50 mx-auto">
-                      <img
-                        :src="metaImg3"
-                        alt="Thumbnail Image"
-                        class="img-fluid"
-                      />
-                    </div>
-                    <h4 class="card-title">
-                      元宇宙为何被需求
-                    </h4>
+                <md-card-content>
+                  <p class="card-description">
+                    元宇宙或是工业和互联网的下一次大变革方向。
+                  </p>
+                </md-card-content>
+              </md-card>
+            </div>
+            <div class="md-layout-item md-medium-size-33 md-small-size-100">
+              <md-card class="md-card-plain">
+                <div class="md-layout-item md-size-50 mx-auto">
+                  <img
+                    :src="metaImg3"
+                    alt="Thumbnail Image"
+                    class="img-fluid"
+                  />
+                </div>
+                <h4 class="card-title">
+                  元宇宙为何被需求
+                </h4>
 
-                    <md-card-content>
-                      <p class="card-description">
-                        它可给人们生活带来效率提升，成本降低
-                      </p>
-                    </md-card-content>
-                  </md-card>
-              </div>
-              <div class="md-layout-item md-medium-size-33 md-small-size-100">
-                  <md-card class="md-card-plain">
-                    <div class="md-layout-item md-size-50 mx-auto">
-                      <img
-                        :src="metaImg4"
-                        alt="Thumbnail Image"
-                        class="img-fluid"
-                      />
-                    </div>
-                    <h4 class="card-title">
-                      元宇宙游戏价值
-                    </h4>
+                <md-card-content>
+                  <p class="card-description">
+                    它可给人们生活带来效率提升，成本降低
+                  </p>
+                </md-card-content>
+              </md-card>
+            </div>
+            <div class="md-layout-item md-medium-size-33 md-small-size-100">
+              <md-card class="md-card-plain">
+                <div class="md-layout-item md-size-50 mx-auto">
+                  <img
+                    :src="metaImg4"
+                    alt="Thumbnail Image"
+                    class="img-fluid"
+                  />
+                </div>
+                <h4 class="card-title">
+                  元宇宙游戏价值
+                </h4>
 
-                    <md-card-content>
-                      <p class="card-description">
-                        在元宇宙游戏中可以创造具有流转价值的资产
-                      </p>
-                    </md-card-content>
-                  </md-card>
-              </div>
+                <md-card-content>
+                  <p class="card-description">
+                    在元宇宙游戏中可以创造具有流转价值的资产
+                  </p>
+                </md-card-content>
+              </md-card>
+            </div>
           </div>
         </div>
         <div class="container">

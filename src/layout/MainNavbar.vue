@@ -8,17 +8,19 @@
   >
     <div class="md-toolbar-row md-collapse-lateral">
       <div class="md-toolbar-section-start">
-        <h3 class="md-title" title="一个专注链游自动化脚本的服务平台">游本世界</h3>
-          <md-list-item href="javascript:void(0)">
-            <a href="/">
-              <p>首页</p>
-            </a>
-          </md-list-item>
-          <md-list-item href="javascript:void(0)">
-            <a href="#/profile">
-              <p>脚本服务</p>
-            </a>
-          </md-list-item>
+        <h3 class="md-title" title="一个专注链游自动化脚本的服务平台">
+          游本世界
+        </h3>
+        <md-list-item href="javascript:void(0)">
+          <a href="/">
+            <p>首页</p>
+          </a>
+        </md-list-item>
+        <md-list-item href="javascript:void(0)">
+          <a href="#/profile">
+            <p>脚本服务</p>
+          </a>
+        </md-list-item>
       </div>
       <div class="md-toolbar-section-end">
         <md-button
@@ -35,7 +37,6 @@
           <div class="md-collapse-wrapper">
             <mobile-menu nav-mobile-section-start="false">
               <!-- Here you can add your items from the section-start of your toolbar -->
-              
             </mobile-menu>
             <md-list>
               <!--
@@ -132,15 +133,10 @@
                 </a>
               </li>
               -->
-              <md-list-item
-                href="https://t.me/OpenFarmer"
-                target="_blank"
-              >
+              <md-list-item href="https://t.me/OpenFarmer" target="_blank">
                 <i class="fab fa-telegram"></i>
                 <p class="hidden-lg">Telegram</p>
-                <md-tooltip md-direction="bottom"
-                  >加入我们的电报群</md-tooltip
-                >
+                <md-tooltip md-direction="bottom">加入我们的电报群</md-tooltip>
               </md-list-item>
               <!--
               <md-list-item
